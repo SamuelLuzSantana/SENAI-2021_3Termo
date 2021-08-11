@@ -2,3 +2,4 @@
 Repositório que reúne os conteúdos e projetos desenvolvidos no terceiro termo do segundo semestre de 2021 do curso técnico Desenvolvimento de Sistemas.
 
 ## Projetos 
+Projeto Inicial: Gerenciamento de patrimonio de uma escola | Escola Senerth de informática
